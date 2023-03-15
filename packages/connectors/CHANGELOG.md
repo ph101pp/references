@@ -1,5 +1,11 @@
 # @wagmi/connectors
 
+## 0.3.4
+
+### Patch Changes
+
+- 6a4af48: Enabled support for programmatic chain switching on `LedgerConnector` & added `"ledger"` to the switch chain regex on `WalletConnectLegacyConnector`.
+
 ## 0.3.3
 
 ### Patch Changes
